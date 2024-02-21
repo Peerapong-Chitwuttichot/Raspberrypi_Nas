@@ -1,4 +1,4 @@
-![image](https://github.com/Peerapong-Chitwuttichot/Raspberrypi_Nas/assets/142074845/b973eb45-bbd4-487f-9a2c-6c373578380b)# Raspberry Pi Network Attached Storage (NAS)
+# Raspberry Pi Network Attached Storage (NAS)
 
 รายละเอียด: โปรเจคนี้เป็นการนำตัวของ Raspberry Pi มาทำเป็น NAS เพื่ออำนวยความสะดวก และมีความสามารถในการจัดการไฟล์สิทธิ์การเข้าถึงไฟล์ รวมไปถึงลดค่าใช้จ่าย
 
