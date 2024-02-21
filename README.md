@@ -11,7 +11,7 @@
 
 ![image](https://github.com/Peerapong-Chitwuttichot/Raspberrypi_Nas/assets/142074845/fca8d860-d0ea-4201-a2c4-3d57bb798f02)
 
-link:https://www.raspberrypi.com/software/
+link: https://www.raspberrypi.com/software/
 
 
 2.
