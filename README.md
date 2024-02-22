@@ -80,6 +80,8 @@ sudo chmod -R 777 /mnt/sda1/shared | สร้างและให้สิท�
 
 ![image](https://github.com/Peerapong-Chitwuttichot/Raspberrypi_Nas/assets/142074845/dfe2ed10-b135-4adf-923d-df1093b6a95f)
 
+----------------------------------------------
+
 # Raspbian --> ติดตั้ง Samba Package
 
 Note Samba เป็นตัวกลางที่เราจะนำมาใช้ ในการที่จะให้ Device ต่างๆ เข้าถึงข้อมูลใน Storage ของเรา ผ่านเครื่อข่าย(Network) ได้
@@ -119,10 +121,11 @@ sudo systemctl restart smbd
 
 
 
+----------------------------------------------
 
 # Raspbian --> ติดตั้ง Samba Package --> ให้สิทธิ์
 
-1.เพิ่มสิทธิ์ให้ User และ ตั้งค่า Password ให้สามารถเข้าถึง NAS ของเราได้
+1.เพิ่มสิทธิ์ให้ User และ ตั้งค่า Password ให้สามารถเข้าถึง NAS ของเราได้ (Restart Samba ทุกครั้งหลังให้สิทธิ์)
 
 
 ```
@@ -147,6 +150,7 @@ sudo smbpasswd -a username | แทนที่ username ด้วยชื่�
 
 
 
+----------------------------------------------
 
 # รูปชิ้นงาน (ของฉันเอง)
 
